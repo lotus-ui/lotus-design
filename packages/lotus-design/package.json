@@ -1,0 +1,16 @@
+{
+  "name": "@lotus-design/react",
+  "version": "0.0.1",
+  "description": "A React UI library",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

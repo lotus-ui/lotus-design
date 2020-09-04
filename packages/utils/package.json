@@ -1,0 +1,7 @@
+{
+  "name": "@lotus-design/react-utils",
+  "version": "0.0.1",
+  "description": "Common Utils For React Component.",
+  "main": "index.js",
+  "license": "MIT"
+}

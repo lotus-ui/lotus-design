@@ -1,0 +1,7 @@
+{
+  "name": "@lotus-design/react-hooks",
+  "version": "0.0.1",
+  "description": "A React hooks library",
+  "main": "index.js",
+  "license": "MIT"
+}
